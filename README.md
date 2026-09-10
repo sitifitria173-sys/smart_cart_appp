@@ -1,2 +1,2 @@
-# smart_cart_appp
-https://www.figma.com/design/iz7rRo7CJigRnT8ph6uJb2/Untitled?node-id=0-1&m=dev&t=gu0H2xXUBhLo9aG8-1
+# WIREFRAME
+https://www.figma.com/design/zstTvpZ7m8fCSwSYcGPb0g/Untitled?node-id=0-1&m=dev&t=tLxPTk2OPReHYKAz-1
